@@ -1,2 +1,1 @@
-# this is my local repo
-# Additional features added FF2 and previouse
+# local repo created in the system for main and feature branches. going to merge for feature addition
